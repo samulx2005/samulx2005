@@ -15,31 +15,32 @@
     </p>
     <div align="center"> <h2> <strong> My Skill Set <strong/></h2></div>
     <table><tr><td valign="top" width="33%">
-    ### Frontend  
+      Frontend  
     <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />        
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt= "//skillicons.dev" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
-
-### Backend  
+  
+   Backend  
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt= "//skillicons.dev" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="angular" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
-### Database 
+   Database 
 <div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" height="50" />    
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="	mongoDB" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="	PostgreSQL" height="50" />  
 
