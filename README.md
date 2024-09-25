@@ -1,4 +1,6 @@
-[portada1](https://github.com/user-attachments/assets/71a41f3f-1efa-46c4-86fb-8fd162ead675)
+
+![Encabezado para Correo Electrónico Bienvenida Marketing de Afiliados Gradiente Azul](https://github.com/user-attachments/assets/024c320e-4e6b-4248-97f8-50d9bd96cf2c)
+
    Hi! I'm Samuel Rodriguez, passionate about data analysis and the development of technological solutions that positively impact the projects and teams I work with. I consider myself a person committed to continuous learning, and I am always looking for opportunities to acquire new skills and improve the ones I already have.
     My professional background has allowed me to master several programming languages, including Java and Python, which I use both in development projects and data analysis. However, my real interest lies in how data can be used to solve complex problems and generate value in organizations.
     I have worked with advanced data analysis tools such as Power BI, with which I can design clear and useful visualizations for informed decision making. In combination with Python, these tools allow me to perform deep analysis, manipulation of large volumes of data and process automation. In addition, I have developed skills in the use of web technologies to integrate analytics solutions into accessible and functional platforms.
