@@ -1,21 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>hv</title>
-</head>
-
-<body>
-     
-    ![portada2](https://user-images.githubusercontent.com/62871071/138319837-2ffaf034-04e9-42f4-9a70-4a1cb05a0d27.jpeg)
+[portada2](https://user-images.githubusercontent.com/62871071/138319837-2ffaf034-04e9-42f4-9a70-4a1cb05a0d27.jpeg)
 
     Hi! I'm Samuel Rodriguez, passionate about data analysis and the development of technological solutions that positively impact the projects and teams I work with. I consider myself a person committed to continuous learning, and I am always looking for opportunities to acquire new skills and improve the ones I already have.
 
     My professional background has allowed me to master several programming languages, including Java and Python, which I use both in development projects and data analysis. However, my real interest lies in how data can be used to solve complex problems and generate value in organizations.
     
     I have worked with advanced data analysis tools such as Power BI, with which I can design clear and useful visualizations for informed decision making. In combination with Python, these tools allow me to perform deep analysis, manipulation of large volumes of data and process automation. In addition, I have developed skills in the use of web technologies to integrate analytics solutions into accessible and functional platforms.
-    
+<div
+
 <div align="center"> <h1> <strong> The technologies I currently work with are </strong> </h1> </div>   
 
 <p align="center">
@@ -77,6 +68,3 @@
 <a href="https://www.linkedin.com/in/samuel-david-rodriguez-reyes-950304241/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-</div>
-</body>
-</html>
